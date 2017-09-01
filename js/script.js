@@ -23,7 +23,7 @@ function loadData() {
 
     // YOUR CODE GOES HERE!
 
-    $body.append('<img class="bgimg" src="' + streetviewURL + '">');
+    $body.append('<img class="bgimg" src="' + streetviewUrl + '">');
 
     return false;
 
